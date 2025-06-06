@@ -5,7 +5,7 @@ using UnityEngine;
 
 namespace ScrapCountDumper;
 
-[BepInPlugin("com.aoirint.scrapcountdumper", "Scrap Dumper", "0.1.0")]
+[BepInPlugin("com.aoirint.scrapcountdumper", "Scrap Count Dumper", "0.1.1")]
 [BepInProcess("Lethal Company.exe")]
 public class Plugin : BaseUnityPlugin
 {
